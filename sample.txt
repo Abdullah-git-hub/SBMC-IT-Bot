@@ -1,0 +1,22 @@
+Please update the [bot.js](cci:7://file:///c:/Users/NN/Documents/Web%20Projects/SBMC_IT_Bot/bot.js:0:0-0:0) file with the following new items.
+For each item, generate a relevant unique `id`.
+
+📚 Books Database (booksDB)
+[Subject] [main/guide]:
+Title 1, FILE_ID_1
+Title 2, FILE_ID_2
+
+🖼 Slides Database (slidesDB)
+[Subject] [Chapter Name]:
+FILE_ID_1
+FILE_ID_2
+
+📝 Question Papers Database (quesPaperDB)
+[Subject] [Exam/Batch Name]:
+FILE_ID_1
+FILE_ID_2
+
+
+devalarafat_db_user
+EwrQF6CSjGdzYRUg
+mongodb+srv://devalarafat_db_user:EwrQF6CSjGdzYRUg@cluster0.dyybnr0.mongodb.net/?appName=Cluster0
